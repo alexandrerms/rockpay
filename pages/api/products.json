@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Logo Led Zepppelin",
+    "price": "0.09",
+    "description": "Tenha acesso a uma imagem do logo do Led Zeppelin exclusiva!",
+    "image_url": "https://mystickermania.com/cdn/stickers/7/1840.png",
+    "filename": "led1.jpg",
+    "hash": "Qmf5nc8KqFY21LNpnsam37NisaijEzM4ZpsNFRbVnEunNt"
+  },
+  {
+    "id": 2,
+    "name": "AC/DC",
+    "price": "0.001",
+    "image_url": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/07/ACDC-Highway-To-Hell.jpg",
+    "description": "Imagem única do ACDC Highway To Hell"
+  }
+]
